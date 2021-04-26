@@ -10,7 +10,7 @@ function preload(){
 
 function setup() {
   createCanvas(1920, 1080);
-  vid.position (0,0)
+  vid.position (960,540)
 //things to establish the "sandbox" go here
 }
 
